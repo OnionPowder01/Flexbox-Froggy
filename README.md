@@ -1,6 +1,7 @@
-<p align="center">
-# Flexbox Froggy Solutions
-/p>
+<h1 align="center">Flexbox Froggy Solutions</h1>
+
+
+
 
 
 <p align="center">
