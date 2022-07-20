@@ -1,6 +1,6 @@
 <h1 align="center">Flexbox Froggy Solutions</h1>
 
-<p align="center">This repository have all the solutions i have made in Flebox Froggy from level 1 to 24.</p>
+<p align="center">In this repository you can find all the solutions from Flebox Froggy from level 1 to 24.</p>
 
 
 <p align="center">
