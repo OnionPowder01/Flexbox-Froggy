@@ -1,4 +1,6 @@
-#Flexbox Froggy Solutions
+<p align="center">
+# Flexbox Froggy Solutions
+/p>
 
 
 <p align="center">
